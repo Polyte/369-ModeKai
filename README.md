@@ -19,4 +19,8 @@ models:
 
 ## How to use it locally
 
-Follow [this discussion](https://huggingface.co/spaces/enzostvs/369modekai/discussions/74)
+ npm install 
+
+ npm run build
+
+ npm run dev
