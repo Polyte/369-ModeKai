@@ -1,13 +1,11 @@
+<img width="3320" height="1728" alt="image" src="https://github.com/user-attachments/assets/20d42ec9-0719-497f-a3ed-be3b6792b64d" />
+
+
 ---
-title: 369ModekAi v2
-emoji: 🐳
-colorFrom: blue
-colorTo: blue
-sdk: docker
-pinned: true
+title: 369ModekAi
 app_port: 3000
-license: mit
-short_description: Generate any application with DeepSeek
+license: bsd
+short_description: Generate any application with 369ModeKai
 models:
   - deepseek-ai/DeepSeek-V3-0324
   - deepseek-ai/DeepSeek-R1-0528
